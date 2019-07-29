@@ -30,13 +30,13 @@ Onde:
   ```int index``` - ponto escolhido pelo usuário
 
 ### Saida
-  Será retornado os valores sistólico e diastólico mais próximo do indice escolhido pelo usuário. 
+  Será retornado os valores dos índices do intervalo sistólico e diastólico mais próximo do indice escolhido pelo usuário. 
   
   Para retornar os valores use:
   
   
-  ```pressure.GetSystolic()``` - Método que retorna um inteiro para o valor Sistólico
-  ```pressure.GetDiastolic()```- Método que retorna um inteiro para o valor Diastólico
+  ```pressure.GetSystolic()``` - Método que retorna um inteiro para o valor do índice Sistólico
+  ```pressure.GetDiastolic()```- Método que retorna um inteiro para o valor do índice Diastólico
   
 
 ## Menssagens de erro
