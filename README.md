@@ -1,7 +1,7 @@
 # bloodPressure
 Measuring Invasive Blood Pressure
 
-Adição de Medição de pressão sanguínea encontrando retornando pressões Diastólica e a Sistólica de um buffer
+Adição de Medição de pressão sanguínea retornando pressões Diastólica e a Sistólica de um buffer
 
 ## Guia de Instalação
 
